@@ -41,6 +41,9 @@ header {
 .right-header p:hover {
   color: #343a40;
 }
+a {
+  text-decoration: none;
+}
 
 /* main section */
 
